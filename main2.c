@@ -33,7 +33,7 @@ int main(){
             printf("A temperatura media do ambiente e de %.2f kelvins.", media);
             break;
         default:
-            printf("Escala de termometrica invalida");
+            printf("Escala termometrica invalida");
             break;   
     }
 
