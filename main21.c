@@ -5,14 +5,10 @@ void parOuImpar(int n);
 int main(){
     int n;
 
-
     printf("Digite um numero:");
     scanf("%d", &n);
 
     parOuImpar(n);
-
-
-
 
     return 0;
 }
